@@ -1,0 +1,22 @@
+---
+layout: layout
+---
+
+<section class="content">
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
+
+  {{ content }}
+
+  <section class="meta">
+    <h3>Social Activity</h3>
+    <section class="copy">
+      <p>TODO:Coming soon</p>
+    </section>
+  </section>
+</section>
