@@ -1,0 +1,10 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Alex Solovey
+url: http://veysby.github.io
+gravatar_url: https://avatars3.githubusercontent.com/u/4071405
+description: Coming soon...

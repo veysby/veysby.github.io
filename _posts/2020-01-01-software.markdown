@@ -1,0 +1,51 @@
+---
+layout: post
+title: Software
+category: posts
+---
+
+### File Managers
+
+* [Far3](http://www.farmanager.com/download.php?l=en)
+* [ConEmu](http://code.google.com/p/conemu-maximus5/)
+
+
+### Java
+
+* [Vanilla Eclipse](https://www.eclipse.org/downloads/)
+* [STS](http://spring.io/tools/sts/all)
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/download/)
+* [Java Decompiler](http://jd.benow.ca/)
+
+* [Jdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Gradle](http://www.gradle.org/)
+* [Ant](https://ant.apache.org/)
+* [Maven](http://maven.apache.org/)
+
+
+### Flex
+
+* [Flash Develop](http://www.flashdevelop.org/)
+* [JPEXS Free Flash Decompiler](http://www.free-decompiler.com/flash/)
+
+
+### Text Editors
+
+* [Sublime Text2](http://www.sublimetext.com/2)
+* [Notepad++](http://notepad-plus-plus.org/)
+
+
+### Web Development
+
+* [Firefox](http://www.mozilla.org/en-US/firefox/all/)
+* [Firebug](https://getfirebug.com/)
+* [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+* [Fiddler](http://www.telerik.com/download/fiddler)
+
+
+### Version Control
+
+* [TortoiseGit](http://code.google.com/p/tortoisegit/)
+* [TortoiseSVN](http://tortoisesvn.net/downloads.html)
+* [Commit Monitor](http://stefanstools.sourceforge.net/CommitMonitor.html)
+

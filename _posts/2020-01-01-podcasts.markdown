@@ -1,0 +1,15 @@
+---
+layout: post
+title: Podcasts
+category: posts
+---
+
+### Favourite podcasts
+
+* [Java Posse](http://javaposse.com/)
+* [Razbor Poletov](http://razbor-poletov.com/)
+* [Radio-T](http://www.radio-t.com/)
+
+### Nice links
+
+* [What good technology podcasts are out there?](http://stackoverflow.com/questions/1644/what-good-technology-podcasts-are-out-there)

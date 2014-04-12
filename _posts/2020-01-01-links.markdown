@@ -1,0 +1,11 @@
+---
+layout: post
+title: Links
+category: posts
+---
+
+Just a set of links I want to keep for further references:
+
+* [Archive of interesting code](http://www.keithschwarz.com/interesting/)
+* [Examples of GoF design patterns](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns)
+
